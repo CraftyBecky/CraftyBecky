@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Becky (Rebeckah) McDaniel
 - 👀 I am a Frontend Web Developer.
-- 🌱 I’m currently learning Javascript. In the future I will move onto Vue, React, and Angular.
-- 💞️ I’m looking to collaborate on open source projects that will help me build my skills and that I can be of any assistance to.
+- 🌱 I’m currently learning Javascript. In the future I will move onto Vue, React and Angular.
+- 💞️ I am open to collaborating on open source projects and any other projects.
 - 📫 How to reach me rebeckah.mcdaniel@gmail.com and CraftyBecky on Discord.
 
 <!---
